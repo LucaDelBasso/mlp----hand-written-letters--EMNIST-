@@ -13,6 +13,8 @@ softmax=true uses softmax activation function on the output (uses ReLU otherwise
 ema = True will calculate the exponential moving average, this will only work for single layer perceptrons. attempting to use this with a MLP will remove your hidden layers and convert to SLP
 
 
+In this assignment I used a subsection of the EMNIST data set:
 
+G.Cohen,S.Afshar,J.Tapson,andA.vanSchaik,“EMNIST:an extension of MNIST to hand written letters.”Retrieved from:http://arxiv.org/abs/1702.05373,(2017)
 
 
