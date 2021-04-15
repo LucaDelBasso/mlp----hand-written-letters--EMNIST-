@@ -9,7 +9,7 @@ this creates an object with input of 50 nodes (number of features for emnist is 
 two hidden layers of 100 and 200 nodes respectively
 an output layer of 15 nodes (emnist has 26 classes)
 default value for number of epochs but you can override this when running training
-softmax=true uses softmax activation function on the output
+softmax=true uses softmax activation function on the output (uses ReLU otherwise)
 ema = True will calculate the exponential moving average, this will only work for single layer perceptrons. attempting to use this with a MLP will remove your hidden layers and convert to SLP
 
 
