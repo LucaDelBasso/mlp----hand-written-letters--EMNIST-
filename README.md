@@ -1,4 +1,4 @@
-Multi Layer Perceptron to classify EMNIST
+# Multi Layer Perceptron to classify EMNIST
 
 by running the python file (python mlp.py) you will automatically run the first test of the single layer perceptron, as an example. 
 
