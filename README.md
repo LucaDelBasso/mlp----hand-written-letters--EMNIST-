@@ -24,3 +24,4 @@ In this assignment I used a subsection of the EMNIST data set:
 G.Cohen,S.Afshar,J.Tapson,andA.vanSchaik,“EMNIST:an extension of MNIST to hand written letters.”Retrieved from:http://arxiv.org/abs/1702.05373, (2017)
 
 
+Please bare in mind that I have left these assignments as they were when the were submitted.
